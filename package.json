@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage":"https://adham422.github.io/Requesting-a-loan",
+  "homepage":"https://adham422.github.io/BankRequesting",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
